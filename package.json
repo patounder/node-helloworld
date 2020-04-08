@@ -1,0 +1,21 @@
+{
+  "name": "node-helloworld",
+  "version": "1.0.0",
+  "description": "is a demo project for how use node",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "patounder",
+    "url": "https://github.com/patounder"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cowsay": "^1.4.0",
+    "progress": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
